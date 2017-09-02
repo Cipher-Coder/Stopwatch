@@ -1,0 +1,18 @@
+body {
+    background: url(http://3.bp.blogspot.com/-Ak1TgA2I1jg/TqxtzTt7_xI/AAAAAAAAD-A/nCqo_a_bBOY/s1600/Grim_Reaper_HD_Background_Vvallpaper.Net.jpg)black;
+    text-align: center;
+    margin-top: 300px;
+}
+#timer {
+    color: white;
+    font-family: "Lato";
+    font-size: 100px;
+    font-weight: 300;
+}
+button {
+    width: 100px;
+    height: 35px;
+}
+button:hover {
+    cursor: pointer;
+}
