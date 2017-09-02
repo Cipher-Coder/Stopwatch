@@ -18,7 +18,10 @@ function stop(){
     watch.stop();
     toggleBtn.textContent = 'Start';
 }
-
+function reset(){
+    watch.reset();
+    toggleBtn.textContent = 'Start/Stop';
+}
 toggleBtn.addEventListener('click', function() {
     (watch.isOn) ? stop() : start();
 });

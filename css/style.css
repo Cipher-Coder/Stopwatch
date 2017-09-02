@@ -1,17 +1,17 @@
 body {
     background: url(http://3.bp.blogspot.com/-Ak1TgA2I1jg/TqxtzTt7_xI/AAAAAAAAD-A/nCqo_a_bBOY/s1600/Grim_Reaper_HD_Background_Vvallpaper.Net.jpg)black;
     text-align: center;
-    margin-top: 300px;
+    margin-top: 350px;
 }
 #timer {
-    color: white;
+    color: red;
     font-family: "Lato";
-    font-size: 100px;
+    font-size: 150px;
     font-weight: 300;
 }
 button {
-    width: 100px;
-    height: 35px;
+    width: 130px;
+    height: 50px;
 }
 button:hover {
     cursor: pointer;
